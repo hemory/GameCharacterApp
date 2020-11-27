@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\bin\Debug\GameCharacter.exe.config
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\bin\Debug\GameCharacter.exe
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\bin\Debug\GameCharacter.pdb
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\obj\Debug\GameCharacter.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\obj\Debug\GameCharacter.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\obj\Debug\GameCharacter.exe
+C:\Users\hphifer\source\repos\GameCharacter\GameCharacter\GameCharacter\obj\Debug\GameCharacter.pdb
